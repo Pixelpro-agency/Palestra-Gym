@@ -27,7 +27,7 @@ const Plans = () => {
               ))}
             </div>
             <div>
-                <span>Scopri altri vantaggi -></span>
+                <span>Scopri altri vantaggi</span>
             </div>
             <button className="btn">Iscriviti</button>
           </div>

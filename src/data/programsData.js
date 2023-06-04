@@ -16,7 +16,7 @@ export const programsData = [
     ),
     heading: "Strength Training",
     details:
-      "In this program, you are trained to improve your strength through many exercises.",
+      "In questo programma, sarai allenato a migliorare la tua forza attraverso esercizi specifici",
   },
   {
     image: <svg width="16" height="17" viewBox="0 0 16 17"  xmlns="http://www.w3.org/2000/svg">
@@ -29,7 +29,7 @@ export const programsData = [
     </svg>,
     heading: "Cardio Training",
     details:
-      "In this program, you are trained to do sequential moves in range of 20 until 30 minutes.",
+      "In questo programma, sarai addestrato a eseguire movimenti sequenziali in un intervallo dai 20 ai 30 minuti",
   },
   {
     image: <svg width="12" height="16" viewBox="0 0 12 16"  xmlns="http://www.w3.org/2000/svg">
@@ -38,7 +38,7 @@ export const programsData = [
     ,
     heading: "Fat Burning",
     details:
-      "This program is suitable for you who wants to get rid of your fat and lose their weight.",
+      "Questo programma è adatto a te che vuoi eliminare il grasso e perdere peso",
   },
   {
     image: <svg width="20" height="16" viewBox="0 0 20 16"  xmlns="http://www.w3.org/2000/svg">
@@ -47,7 +47,7 @@ export const programsData = [
     ,
     heading: "Health Fitness",
     details:
-      "This programs is designed for those who exercises only for their body fitness not body building.",
+      "Questo programma è progettato per coloro che si esercitano solo per la propria forma fisica e non per il body building",
   },
 ];
 
